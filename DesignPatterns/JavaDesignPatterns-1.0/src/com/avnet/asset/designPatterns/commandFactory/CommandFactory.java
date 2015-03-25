@@ -9,7 +9,7 @@ import java.util.Properties;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-// import com.avnet.asset.designPatterns.util.constants.MessageConstants;
+import com.avnet.asset.designPatterns.util.constants.MessageConstants;
 
 /**
  *
